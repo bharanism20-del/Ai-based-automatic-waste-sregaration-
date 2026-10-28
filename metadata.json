@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix EcoSort AI - Automatic Waste Segregation",
+  "description": "AI-based automatic waste segregation combining Deep Neural Networks, IoT telemetry, robotic conveyor sorting simulation, and real-time monitoring analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
